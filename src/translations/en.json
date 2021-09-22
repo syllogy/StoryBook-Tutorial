@@ -1,0 +1,9 @@
+{
+  "file-upload":{
+    "upload-btn":"Upload"
+  },
+  "document-step":{
+    "title":"File upload page",
+    "language":"Language"
+  }
+}
